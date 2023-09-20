@@ -1,0 +1,49 @@
+{
+  "term": "Spring",
+  "year": "2009",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Biological Engineering",
+      "Synthetic Biology"
+    ],
+    [
+      "Engineering",
+      "Biological Engineering"
+    ]
+  ],
+  "legacy_uid": "2417d3de-d32f-de6b-209d-d8af720637ae",
+  "instructors": {
+    "content": [
+      "df2efa40-1f67-b75c-affa-05c7d5fb547c",
+      "726f9338-bfd2-6f5f-b819-4f5644a37318"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "9cd08e05-7357-3f60-c97b-19038c3b678b",
+    "website": "20-020-introduction-to-biological-engineering-design-spring-2009"
+  },
+  "course_title": "Introduction to Biological Engineering Design",
+  "course_description": "This class is a project-based introduction to the engineering of synthetic biological systems. Throughout the term, students develop projects that are responsive to real-world problems of their choosing, and whose solutions depend on biological technologies. Lectures, discussions, and studio exercises will introduce (1) components and control of prokaryotic and eukaryotic behavior, (2) DNA synthesis, standards, and abstraction in biological engineering, and (3) issues of human practice, including biological safety; security; ownership, sharing, and innovation; and ethics. Enrollment preference is given to freshmen.\n\nThis subject was originally developed and first taught in Spring 2008 by Drew Endy and Natalie Kuldell. Many of Drew's materials are used in this Spring 2009 version, and are included with his permission.\n\nThis OCW Web site is based on the OpenWetWare class Wiki, found at [OpenWetWare: 20.020 (S09)](http://openwetware.org/wiki/20.20%28S09%29)\n",
+  "department_numbers": [
+    "20"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "20.020",
+  "course_image_thumbnail": {
+    "content": "5df425be-d50f-162e-651a-5537a8379a3e",
+    "website": "20-020-introduction-to-biological-engineering-design-spring-2009"
+  },
+  "learning_resource_types": [
+    "Tutorial Videos",
+    "Lecture Notes",
+    "Projects with Examples"
+  ],
+  "site_uid": "6770c809-b238-40bb-ae7b-e0f386ba380d",
+  "site_short_id": "20.020-spring-2009",
+  "title": "Course Metadata"
+}
