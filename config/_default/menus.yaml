@@ -1,0 +1,33 @@
+leftnav:
+- identifier: 39c52415-5b27-90c7-5ad9-577dafb7b7a3
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 6b390478-4bb4-fa18-4e86-cd14829a747e
+  name: Lecture and Studio Notes
+  pageRef: /pages/lecture-and-studio-notes/
+  weight: 20
+- identifier: 7383cd6e-01ff-ea89-442e-1e74b3c4a721
+  name: Readings (20.902)
+  pageRef: /pages/readings-20-902
+  weight: 30
+- identifier: f46140cd-e86a-d79a-318f-ba9b9f2dbf04
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 40
+- identifier: becca3d9-df0a-28ca-aa38-17ca41c1c55b
+  name: Projects
+  pageRef: /pages/projects/
+  weight: 50
+- identifier: 59aef7d7-fdb0-1a1f-fd2b-9d9194f42dec
+  name: Team Building Resources
+  pageRef: /pages/team-building-resources
+  weight: 60
+- identifier: b41a9c3e-24b7-7fcd-d441-04c576e0f5d4
+  name: Teacher Resources
+  pageRef: /pages/teacher-resources
+  weight: 70
+- identifier: 31a53ae4-8080-e2e1-23cc-03ee978bb1bd
+  name: BioBuilder Animations
+  pageRef: /video_galleries/biobuilder-animations
+  weight: 80
